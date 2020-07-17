@@ -1,4 +1,4 @@
-# azergoktelMMC
+# "AZƏRGÖKTEL" MMC
 Azərbaycan və Türkiyənin əməkdaşlığı ilə kabel satış firmasıdır.
 
 
